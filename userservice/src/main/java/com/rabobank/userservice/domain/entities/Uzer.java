@@ -1,6 +1,6 @@
-package com.rabobank.userservice.entities;
+package com.rabobank.userservice.domain.entities;
 
-import com.rabobank.userservice.dtos.UserDto;
+import com.rabobank.userservice.domain.dtos.UserDto;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.Getter;

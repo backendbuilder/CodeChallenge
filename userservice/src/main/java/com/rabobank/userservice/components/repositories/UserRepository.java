@@ -1,6 +1,6 @@
-package com.rabobank.userservice.repositories;
+package com.rabobank.userservice.components.repositories;
 
-import com.rabobank.userservice.entities.Uzer;
+import com.rabobank.userservice.domain.entities.Uzer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.rabobank.userservice.dtos;
+package com.rabobank.userservice.domain.dtos;
 
-import com.rabobank.userservice.entities.Uzer;
+import com.rabobank.userservice.domain.entities.Uzer;
 
 public record UserDto (String email, String password){
 
